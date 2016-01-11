@@ -128,7 +128,10 @@ a:focus {
         padding: 20px 0;
         border-bottom: 0;
         letter-spacing: 1px;
-        background: 0 0;
+        /*background: 0 0;*/
+        background: #000;
+        /*border-bottom: 1px solid rgba(255,255,255,.3);*/
+        border-bottom: 5px solid #f8cd53;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
