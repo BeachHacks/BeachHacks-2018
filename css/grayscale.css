@@ -210,7 +210,7 @@ a:focus {
   margin-top: 15px;
   padding: 25px 16px;
   border: 5px solid #f8cd53;
-  border-radius: 100%!important;
+  /*border-radius: 100%!important;*/
   font-size: 30px;
   color: #f8cd53;
   background: #233286;
