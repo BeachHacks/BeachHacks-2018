@@ -204,11 +204,26 @@ a:focus {
     transition: background .3s ease-in-out;
 }
 
-.btn-circle:hover,
-.btn-circle:focus {
-    outline: 0;
-    color: #fff;
-    background: rgba(255,255,255,.1);
+.btn-curved-rectangle {
+  width: 300px;
+  height: 100px;
+  margin-top: 15px;
+  padding: 25px 16px;
+  border: 5px solid #f8cd53;
+  border-radius: 100%!important;
+  font-size: 30px;
+  color: #f8cd53;
+  background: #233286;
+  -webkit-transition: background .3s ease-in-out;
+  -moz-transition: background .3s ease-in-out;
+  transition: background .3s ease-in-out;
+}
+
+.btn-curved-rectangle:hover,
+.btn-curved-rectangle:focus {
+    border: 5px solid #233286;
+    color: #233286;
+    background: #f8cd53;
 }
 
 .btn-circle i.animated {
