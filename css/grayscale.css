@@ -100,6 +100,11 @@ a:focus {
     transition: background .3s ease-in-out;
 }
 
+.navbar-custom .nav li {
+
+  padding-right: 80px;
+}
+
 .navbar-custom .nav li a:hover {
     outline: 0;
     color: rgba(255,255,255,.8);
@@ -376,4 +381,15 @@ body {
 
 .copyright-text p {
     color: #f8cd53;
+}
+
+#mlh-trust-badge {
+    position: fixed;
+    display: block;
+    z-index: 10000;
+    top: 55px;
+    right: 10px;
+    max-width: 80px;
+    width: 10%;
+    min-width: 50px;
 }
