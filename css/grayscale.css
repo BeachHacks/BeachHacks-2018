@@ -382,3 +382,14 @@ body {
 .copyright-text p {
     color: #f8cd53;
 }
+
+#mlh-trust-badge {
+    position: fixed;
+    display: block;
+    z-index: 10000;
+    top: 58px;
+    right: 10px;
+    max-width: 80px;
+    width: 10%;
+    min-width: 50px;
+}
