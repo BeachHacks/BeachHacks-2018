@@ -48,6 +48,7 @@ img {
   height: 45px;
   max-width: 120px;
 }
+
 .sponsor-section {
     width: 100%;
     padding-bottom: 50px 0;
@@ -57,4 +58,8 @@ img {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.logo-holder .logo.partner {
+  height: 100px;
 }
