@@ -149,6 +149,11 @@ a:focus {
         border-bottom: 5px solid #f8cd53;
         background: #000;
     }
+
+    .navbar-custom .nav li {
+
+        padding-right: 30px;
+    }
 }
 
 .intro {
