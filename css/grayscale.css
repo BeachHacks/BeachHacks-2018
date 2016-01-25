@@ -159,11 +159,11 @@ a:focus {
 .intro {
     display: table;
     width: 100%;
-    height: auto;
+    height: 100%;
     padding: 100px 0;
     text-align: center;
     color: #f8cd53;;
-    background: url(../img/pyramid.jpg) no-repeat bottom center scroll;
+    background: url(../img/shrunk_triangle.png) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -217,7 +217,7 @@ a:focus {
 .btn-curved-rectangle {
   width: 300px;
   height: 100px;
-  margin-top: 15px;
+  margin-top: 50px;
   padding: 25px 16px;
   border: 5px solid #f8cd53;
   /*border-radius: 100%!important;*/
@@ -404,9 +404,8 @@ body {
 }
 
 #mlh-trust-badge {
-    position: fixed;
+    position: absolute;
     display: block;
-    z-index: 10000;
     top: 55px;
     right: 10px;
     max-width: 80px;
