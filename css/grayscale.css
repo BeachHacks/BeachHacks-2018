@@ -412,3 +412,8 @@ body {
     width: 10%;
     min-width: 50px;
 }
+a:hover,
+a:focus #link {
+     text-decoration: none;
+    color: #000000;
+}
