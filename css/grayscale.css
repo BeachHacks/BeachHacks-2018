@@ -413,7 +413,8 @@ body {
     min-width: 50px;
 }
 a:hover,
-a:focus #link {
+a:focus,
+a:visited #link {
      text-decoration: none;
     color: #000000;
 }
