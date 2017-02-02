@@ -63,3 +63,35 @@ img {
 .logo-holder .logo.partner {
   height: 100px;
 }
+
+.circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 10px solid white;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+path {
+  fill: transparent;
+  transform-origin: center bottom;
+  transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+}
+
+.invisible {
+  opacity: 0;
+  transform: scale(0);
+}
+
+.absLogo {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 150px;
+}

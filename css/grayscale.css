@@ -55,7 +55,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #f8cd53;
+    color: #f8cd53 !important;
 }
 
 .light {
@@ -163,7 +163,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #f8cd53;;
-    background: url(../img/shrunk_triangle.png) no-repeat bottom center scroll;
+    /*background: url(../img/shrunk_triangle.png) no-repeat bottom center scroll;*/
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
