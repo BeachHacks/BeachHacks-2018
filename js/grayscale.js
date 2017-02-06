@@ -176,7 +176,8 @@ var pattern = Trianglify({
   height: window.innerHeight,
   cell_size: 80,
   variance: 1,
-  stroke_width: 2
+  stroke_width: 2,
+  x_colors: ["#ffffcc","#a1dab4","#41b6c4","#225ea8"]
 }).svg(); // Render as SVG.
 
 // Add pattern to DOM.

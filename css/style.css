@@ -95,3 +95,7 @@ path {
   right: 0;
   top: 150px;
 }
+
+iframe {
+  width: 100%    !important;
+}
