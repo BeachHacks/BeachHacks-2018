@@ -94,8 +94,21 @@ path {
   left: 0;
   right: 0;
   top: 50px;
+  height: 100%;
+  width: 100%;
 }
 
 iframe {
   width: 100%    !important;
+}
+
+.registerButton {
+    background-color: #385fcf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
