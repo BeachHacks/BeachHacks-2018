@@ -112,3 +112,28 @@ iframe {
     display: inline-block;
     font-size: 16px;
 }
+
+.faq
+{
+  background: #f8cd53;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.faqTitle
+{
+  color:black;
+}
+
+.faq:hover
+{
+  background: #ffe066;
+}
+
+.faqText
+{
+  color: black;
+  cursor: pointer;
+}
+
