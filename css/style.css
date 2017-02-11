@@ -99,7 +99,7 @@ path {
   left: 0;
   right: 0;
   top: 75px;
-  height: 90%;
+  height: 70%;
   width: 100%;
 }
 
@@ -138,7 +138,7 @@ iframe {
 {
   text-align: left;
   margin-left: 20px;
-  /*margin-top: -10px;*/
+  margin-top: 5px;
   /*margin-bottom: 50px;*/
 }
 
