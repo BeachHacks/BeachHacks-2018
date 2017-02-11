@@ -117,8 +117,9 @@ iframe {
 {
   background: #f8cd53;
   border-radius: 5px;
-  padding: 20px;
+  padding: 30px;
   margin-top: 40px;
+  color:black;
 }
 
 .faqTitle
@@ -132,8 +133,13 @@ iframe {
   cursor: pointer;
 }
 
-.faqText
+/*.faqText
 {
-  color: black;
+  color: white;
+  display: block;
+}*/
+
+.rowhead{
+  clear:left;
 }
 
