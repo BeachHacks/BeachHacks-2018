@@ -178,3 +178,6 @@ iframe {
   clear:left;
 }
 
+.navbar-nav li{
+  padding-right: 5px !important;
+}
