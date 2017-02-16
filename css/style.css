@@ -181,3 +181,10 @@ iframe {
 .navbar-nav li{
   padding-right: 5px !important;
 }
+
+#WhatisBeachHacks{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/pyramid.jpg");
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position: 50% 50%;
+}
