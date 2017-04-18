@@ -198,3 +198,14 @@ body{
 .link-color{
   color: orange;
 }
+
+#schedule{
+  color: black;
+  margin-bottom: 20px;
+}
+
+#schedule-content{
+  border-radius: 5px;
+  background-color: #f8cd53;
+  padding: 20px;
+}
