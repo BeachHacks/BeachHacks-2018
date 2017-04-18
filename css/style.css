@@ -199,10 +199,10 @@ body{
   color: orange;
 }
 
-#schedule{
+#schedule-section{
   color: black;
   margin-bottom: 20px;
-}
+} 
 
 #schedule-content{
   border-radius: 5px;
