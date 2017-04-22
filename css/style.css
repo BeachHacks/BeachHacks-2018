@@ -209,3 +209,15 @@ body{
   background-color: #f8cd53;
   padding: 20px;
 }
+
+#blueLink:hover { 
+    color: black !important;
+}
+
+#blueLink:visited {
+  color: black !important;
+}
+
+#blueLink:active {
+  color: black !important;
+}
