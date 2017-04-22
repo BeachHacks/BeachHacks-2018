@@ -217,3 +217,7 @@ body{
 #blueLink:visited {
   color: black !important;
 }
+
+#blueLink:active {
+  color: black !important;
+}
