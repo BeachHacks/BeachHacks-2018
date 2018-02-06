@@ -226,3 +226,9 @@ a {
   width: 50em;
   height: 30em;
 }
+
+.nav-link {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  color: #013159 !important;
+}
