@@ -221,3 +221,8 @@ a {
 	width: 75%;
 	min-width: 50px;
 }
+
+#youtubeframe {
+  width: 50em;
+  height: 30em;
+}
