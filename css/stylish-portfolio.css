@@ -231,7 +231,7 @@ a {
   font-family: 'Avenir Bold', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
-  color: #013159 !important;
+  color: #000000 !important;
 }
 
 .nav-link:hover {
@@ -239,9 +239,9 @@ a {
   font-size: 14px;
   text-transform: uppercase;
   font-weight: bolder;
-  color: #013159 !important;
+  color: #000000 !important;
 }
 
 #mainNav {
-  background: #FFFFF0;
+  background: #ffffe6;
 }
