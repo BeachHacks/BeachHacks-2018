@@ -228,8 +228,17 @@ a {
 }
 
 .nav-link {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 300;
+  font-family: 'Avenir Bold', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #013159 !important;
+}
+
+.nav-link:hover {
+  font-family: 'Avenir Bold', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bolder;
   color: #013159 !important;
 }
 
