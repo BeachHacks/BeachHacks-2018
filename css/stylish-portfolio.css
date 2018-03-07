@@ -1,3 +1,5 @@
+
+
 body,
 html {
   width: 100%;
@@ -226,7 +228,15 @@ a {
 	max-width: 300px;
 	width: 75%;
 	min-width: 50px;
+  margin: 1.2rem 0;
 }
+
+.logo.gold {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+
 
 #youtubeframe {
   width: 50em;
